@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on ***Guillaume Lambert***</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on ***Guillaume Lambert***</description>
+    <title>sciences on ***Guillaume Lambert***</title>
+    <link>/tags/sciences/</link>
+    <description>Recent content in sciences on ***Guillaume Lambert***</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Guillaume Lambert (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
-    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/sciences/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My project</title>
-      <link>/project/example-project/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/example-project/</guid>
-      <description>Here I describe my project using Markdown formatting...</description>
-    </item>
     
     <item>
       <title>Project test</title>

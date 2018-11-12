@@ -46,5 +46,21 @@
 </description>
     </item>
     
+    <item>
+      <title>Project test</title>
+      <link>/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project1/</guid>
+      <description>&lt;p&gt;ajout d&#39;images&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/gasterozoide.jpg&#34; alt=&#34;gonozoide&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/gonozoide.jpg&#34; alt=&#34;gasterozoide&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/photo-bio-an1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
